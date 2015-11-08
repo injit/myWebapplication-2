@@ -1,0 +1,5 @@
+c:\Projects\myWebApplication\myWebApplication\bin\myWebApplication.dll.config
+c:\Projects\myWebApplication\myWebApplication\bin\myWebApplication.dll
+c:\Projects\myWebApplication\myWebApplication\bin\myWebApplication.pdb
+c:\Projects\myWebApplication\myWebApplication\obj\Debug\myWebApplication.dll
+c:\Projects\myWebApplication\myWebApplication\obj\Debug\myWebApplication.pdb

@@ -1,0 +1,46 @@
+﻿body {
+    background-color: lightsteelblue;
+}
+
+        
+.gridViewHeader a:link{
+    text-decoration:none;
+}
+tr:hover td {
+    color:white;
+}
+
+tr:hover td a:link{
+    color:white;
+}
+.FN{
+
+    width:135px;
+}
+.LN{
+
+    width:120px;
+}
+.DPT{
+
+    width:200px;
+}
+.RM{
+
+    width:70px;
+}
+.PHN{
+
+    width:0px;
+}
+#container{
+    margin-left:auto;
+    margin-right:auto;
+    width:850px;
+    font-size: 15px;
+    /*font-family: "Courier New", Courier, monospace;*/
+}
+#Label1{    
+    font-size:20px;    
+}
+        

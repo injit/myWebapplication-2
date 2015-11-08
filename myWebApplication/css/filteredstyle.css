@@ -1,0 +1,57 @@
+﻿body {
+    background-color: lightsteelblue;
+}
+
+        
+.gridViewHeader a:link{
+    text-decoration:none;
+    
+}
+.gridViewHeader{
+    width:170px;
+}
+tr:hover td {
+    color:white;
+}
+
+tr:hover td a:link{
+    color:white;
+}
+.FN{
+    text-transform:capitalize;
+    width:130px;
+}
+.LN{
+    text-transform:capitalize;
+    width:143px;
+}
+
+.DPT{
+    text-transform:capitalize;
+    width:200px;
+}
+.RM{
+
+    width:60px;
+}
+.PHN{
+
+    width:95px;
+}
+#container{
+    margin-left:auto;
+    margin-right:auto;
+    width:1200px;
+    font-size: 15px;
+    /*font-family: "Courier New", Courier, monospace;*/
+}
+#Label1{    
+    font-size:20px;    
+}
+
+.cmdHeader {
+    width: 135px;
+}
+/*.UCFL{
+    text-transform:capitalize;
+}*/

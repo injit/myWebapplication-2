@@ -1,0 +1,49 @@
+﻿body {
+    background-color:gray;
+}
+
+.gridViewHeader a:link{
+        text-decoration:none;
+ 
+    }
+
+#container{
+    margin-left:auto;
+    margin-right:auto;
+    width:950px;
+    font-size: 15px;
+    /*font-family: "Courier New", Courier, monospace;*/
+}
+th{
+    text-align:center;
+
+}
+.EMP{
+ 
+    width:0px;
+}
+.FN{
+
+    width:135px;
+}
+.LN{
+
+    width:120px
+}
+.DPT{
+
+    width:200px;
+}
+.RM{
+
+    width:70px;
+}
+.PHN{
+
+    width:0px;
+}
+.gridViewHeader{
+
+    width:200px;
+}
+
